@@ -2,7 +2,7 @@
 
 This repo contains a Stream Deck profile that contains some frequently used VoiceOver keyboard shortcuts.
 
-[!VO Hotkeys](VO-HotKeys.png)
+![VO Hotkeys](VO-HotKeys.png)
 
 ## Usage
 
